@@ -11,9 +11,9 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const SKILL_DIR = resolve(__dirname, '..');
 const CACHE_DATA_DIR = join(SKILL_DIR, 'cache', 'data');
 const REMOTE_URL =
-  'https://suyxh.github.io/ai-news-aggregator/data/latest-24h.json';
+  'https://huang1125677925.github.io/ai-news-aggregator/data/latest-24h.json';
 const REMOTE_URL_7D =
-  'https://suyxh.github.io/ai-news-aggregator/data/latest-7d.json';
+  'https://huang1125677925.github.io/ai-news-aggregator/data/latest-7d.json';
 const STALE_HOURS = 3;
 
 function parseArgs(argv) {

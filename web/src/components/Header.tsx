@@ -86,7 +86,7 @@ export function Header({
               </div>
             )}
             <a
-              href="https://github.com/SuYxh/ai-news-aggregator"
+              href="https://github.com/huang1125677925/ai-news-aggregator"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn-ghost p-2 rounded-lg"

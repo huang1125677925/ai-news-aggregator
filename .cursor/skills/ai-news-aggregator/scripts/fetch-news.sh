@@ -6,7 +6,7 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SKILL_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
 CACHE_REPO="$SKILL_DIR/cache/repo"
 CACHE_DATA="$SKILL_DIR/cache/data"
-REPO_URL="https://github.com/SuYxh/ai-news-aggregator.git"
+REPO_URL="https://github.com/huang1125677925/ai-news-aggregator.git"
 
 is_project_root() {
   [ -f "$1/package.json" ] && grep -q '"name"[[:space:]]*:[[:space:]]*"ai-news-aggregator"' "$1/package.json"

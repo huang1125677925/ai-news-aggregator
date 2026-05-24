@@ -109,8 +109,8 @@ $SKILL/scripts/fetch-news.sh
 ## 在线 API
 
 ```
-https://suyxh.github.io/ai-news-aggregator/data/latest-24h.json
-https://suyxh.github.io/ai-news-aggregator/data/latest-7d.json
+https://huang1125677925.github.io/ai-news-aggregator/data/latest-24h.json
+https://huang1125677925.github.io/ai-news-aggregator/data/latest-7d.json
 ```
 
 ## 故障排查

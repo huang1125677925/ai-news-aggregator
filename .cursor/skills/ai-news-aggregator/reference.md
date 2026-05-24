@@ -41,4 +41,4 @@
 
 ## 项目仓库
 
-https://github.com/SuYxh/ai-news-aggregator
+https://github.com/huang1125677925/ai-news-aggregator
