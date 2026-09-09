@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T20:59:08.397Z",
+  "generated_at": "2026-09-08T23:58:07.879Z",
   "sites": [
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 463,
+      "duration_ms": 449,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 1053,
+      "duration_ms": 466,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 322,
-      "duration_ms": 16916,
+      "item_count": 331,
+      "duration_ms": 18757,
       "error": null
     },
     {
@@ -30,15 +30,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 991,
+      "duration_ms": 415,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3038,
-      "duration_ms": 983,
+      "item_count": 3043,
+      "duration_ms": 1208,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 1046,
+      "duration_ms": 808,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5132,
+      "duration_ms": 5497,
       "error": "fetch failed"
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1478,
+      "duration_ms": 2265,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "AI今日热榜",
       "ok": true,
       "item_count": 0,
-      "duration_ms": 189,
+      "duration_ms": 174,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 688,
+      "duration_ms": 959,
       "error": null
     }
   ],
@@ -90,9 +90,9 @@
     "bestblogs",
     "aihot"
   ],
-  "fetched_raw_items": 4735,
-  "items_before_topic_filter": 33838,
-  "items_in_24h": 649,
+  "fetched_raw_items": 4749,
+  "items_before_topic_filter": 33807,
+  "items_in_24h": 677,
   "rss_opml": {
     "enabled": false,
     "path": null,
